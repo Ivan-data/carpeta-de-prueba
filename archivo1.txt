@@ -1,0 +1,3 @@
+es un archivo normal que no está en un repositorio de git
+hago otra modificacion en este archivo
+nuevo cambio de hoy
